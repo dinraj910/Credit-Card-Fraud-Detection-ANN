@@ -1,0 +1,4 @@
+#ignore the data folder and csv
+
+data/*.csv
+#ignore the notebook checkpoints
